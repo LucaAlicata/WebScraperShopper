@@ -24,4 +24,4 @@ Login to google account and create specific app password following this guide:
 
 ## Last Working Date:
 
-07/2023# WebScraperShopper
+07/2023
